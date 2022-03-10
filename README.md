@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Cryptotracker React app using Rapid API Cointracker and Bing News Search APIs
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
